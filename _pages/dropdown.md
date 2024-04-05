@@ -6,7 +6,9 @@ nav_order: 6
 dropdown: true
 children: 
     - title: ToothFairy
-      permalink: http://toothfairychallenge.eu
+      permalink: https://toothfairy2.grand-challenge.org/
+    - title: 3DTeethLand
+      permalink: https://google.com
     - title: STS
-      permalink: https://zenodo.org/record/7840021#.ZGea-3ZByUm
+      permalink: https://google.com
 ---

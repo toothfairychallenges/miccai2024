@@ -2,7 +2,7 @@
 layout: page
 permalink: /contact/
 title: Contacts
-description: contact persons for TootFairy Event MICCAI 2023
+description: contact persons for TootFairy Event MICCAI 2024
 nav: true
 nav_order: 7
 ---
@@ -12,7 +12,12 @@ nav_order: 7
 - Contact: Federico Bolelli
 - Email: federico.bolelli@unimore.it
 
-[`Semi-supervised Teeth Segmentation Challenge`](https://zenodo.org/record/7840021#.ZGea-3ZByUm):
-- Website: [`STS-2D`](https://tianchi.aliyun.com/competition/entrance/532086/introduction) & [`STS-3D`](https://tianchi.aliyun.com/competition/entrance/532087/introduction)
+[`3DTeethLand: 3D Teeth Landmarks Detection Challenge`](https://google.com):
+- Website: 
+- Contact: Achraf Benhamadou
+- Email: achraf.benhamadou@gmail.com
+
+[`Semi-supervised Teeth Segmentation`](https://google.com):
+- Website: 
 - Contact: Yaqi Wang
 - Email: wangyaqi@cuz.edu.cn

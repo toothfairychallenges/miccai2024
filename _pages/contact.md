@@ -7,8 +7,8 @@ nav: true
 nav_order: 7
 ---
 
-[`Tooth Fairy: Supervised and Semi-Supervised Maxillofacial Image Segmentation Challenge`](http://toothfairychallenge.eu):
-- Website: https://toothfairychallenge.eu
+[`ToothFairy2: Multi-Structure Segmentation in CBCT Volumes`](https://toothfairy2.grand-challenge.org/):
+- Website: https://toothfairy2.grand-challenge.org/
 - Contact: Federico Bolelli
 - Email: federico.bolelli@unimore.it
 

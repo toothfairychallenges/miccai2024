@@ -2,7 +2,8 @@
 layout: about
 title: About
 permalink: /
-subtitle: Joint-event for <b>MICCAI 2023 Challenges</b> <a href='https://toothfairychallenge.eu'>ToothFairy - A Cone-Beam Computed Tomography Segmentation Challenge</a> & Semi-supervised Teeth Segmentation Challenges (<a href='https://tianchi.aliyun.com/competition/entrance/532086/introduction'>STS-2D</a> & <a href='https://tianchi.aliyun.com/competition/entrance/532087/introduction'>STS-3D</a>)
+subtitle: Joint-event for <b>MICCAI 2024 Challenges</b> <a href='https://toothfairy2.grand-challenge.org/'>ToothFairy2 - Multi-Structure Segmentation in CBCT Volumes</a> & 
+<a href=''>3DTeethLand - 3D Teeth Landmarks Detection Challenge</a> & <a href=''>Semi-supervised Teeth Segmentation</a>)
 
 profile:
   align: right
@@ -16,17 +17,16 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Welcome to the **Tooth Fairy: Supervised and Semi-Supervised Maxillofacial Image Segmentation Challenge** joint-event for [MICCAI 2023](https://conferences.miccai.org/2023/en/)!
+Welcome to the **ToothFairy Challenges: Supervised and Semi-supervised Multi-Structure Segmentation and Landmark Detection in Dental Data** joint-event for [MICCAI 2024](https://conferences.miccai.org/2024/en/)!
 
-This event will host two challenges of MICCAI 2023:
+This event will host three challenges of MICCAI 2024:
 >
-- [`ToothFairy`](https://toothfairychallenge.eu): A Cone-Beam Computed Tomography Segmentation Challenge
-- STS: Semi-supervised Teeth Segmentation Challenge. This competition consists of two tracks:
-  - [`STS-2D`](https://tianchi.aliyun.com/competition/entrance/532086/introduction): Semi-supervised Tooth Segmentation on Panoramic X-ray Image
-  - [`STS-3D`](https://tianchi.aliyun.com/competition/entrance/532087/introduction): Semi-supervised Tooth Segmentation on Cone Beam Computed Tomography Volume
+- [`ToothFairy2`](https://toothfairy2.grand-challenge.org/): Multi-Structure Segmentation in CBCT Volumes;
+- 3DTeethLand: 3D Teeth Landmarks Detection Challenge; 
+- Semi-supervised Teeth Segmentation;
 
-Together, both challenges will organize a joint event called "Tooth Fairy: Supervised and Semi-Supervised Maxillofacial Image Segmentation Challenge" at the MICCAI Conference. In this half-day joint-event, we will have a combined introduction and overview on the topics of maxillofacial image segmentation, followed by two sessions (1.5h each) devoted to summarizing and announcing the results of each challenge.
+Together, the three challenges will organize a joint event called "ToothFairy Challenges: Supervised and Semi-supervised Multi-Structure Segmentation and Landmark Detection in Dental Data" at the MICCAI 2024 Conference. In this half-day joint-event, we will have a combined introduction and overview on the topics of maxillofacial image segmentation, followed by three sessions (1h each) devoted to summarizing and announcing the results of each challenge.
 
-Our joint-event will take place on the 8th of October in Vancouver, Canada. Stay tuned for more information! Don't forget to checkout and register on challenge-specific websites.
+Our joint-event will take place on the 6th of October in Marrakesh, Morocco. Stay tuned for more information! Don't forget to checkout and register on challenge-specific websites.
 
 

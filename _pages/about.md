@@ -2,9 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Joint-event for <b>MICCAI 2024 Challenges</b> <a href='https://toothfairy2.grand-challenge.org/'>ToothFairy2 - Multi-Structure Segmentation in CBCT Volumes</a> & 
-<a href=''>3DTeethLand - 3D Teeth Landmarks Detection Challenge</a> & <a href=''>Semi-supervised Teeth Segmentation</a>)
-
+subtitle: Joint-event for <b>MICCAI 2024 Challenges</b> <a href='https://toothfairy2.grand-challenge.org/'>ToothFairy2 - Multi-Structure Segmentation in CBCT Volumes</a> & <a href=''>3DTeethLand - 3D Teeth Landmarks Detection Challenge</a> & <a href=''>Semi-supervised Teeth Segmentation</a>)
 profile:
   align: right
   image: miccai2023-mobile-logo_resized.jpg

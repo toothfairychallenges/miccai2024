@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Challenge proposals submitted to MICCAI 2023 for review
+Challenge proposals submitted to MICCAI 2024 for review

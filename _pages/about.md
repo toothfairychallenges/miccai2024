@@ -23,7 +23,7 @@ This event will host three challenges of MICCAI 2024:
 - 3DTeethLand: 3D Teeth Landmarks Detection Challenge; 
 - Semi-supervised Teeth Segmentation;
 
-Together, the three challenges will organize a joint event called "ToothFairy Challenges: Supervised and Semi-supervised Multi-Structure Segmentation and Landmark Detection in Dental Data" at the MICCAI 2024 Conference. In this half-day joint-event, we will have a combined introduction and overview on the topics of maxillofacial image segmentation, followed by three sessions (1h each) devoted to summarizing and announcing the results of each challenge.
+Together, the three challenges will organize a joint event called "Supervised and Semi-supervised Multi-Structure Segmentation and Landmark Detection in Dental Data" at the MICCAI 2024 Conference. In this half-day joint-event, we will have a combined introduction and overview on the topics of maxillofacial image segmentation, followed by three sessions (1h each) devoted to summarizing and announcing the results of each challenge.
 
 **Our joint-event will take place on the 6th of October in Marrakesh, Morocco.** Stay tuned for more information! Don't forget to checkout and register on challenge-specific websites.
 

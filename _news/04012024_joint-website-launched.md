@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-ToothFairy challenge joint-event's website launched!
+ToothFairy, 3DTeethLand, STS challenges website launched!

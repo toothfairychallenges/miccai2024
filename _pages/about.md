@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Joint-event for <b>MICCAI 2024 Challenges</b> <a href='https://toothfairy2.grand-challenge.org/'>ToothFairy2 - Multi-Structure Segmentation in CBCT Volumes</a> & <a href=''>3DTeethLand - 3D Teeth Landmarks Detection Challenge</a> & <a href=''>Semi-supervised Teeth Segmentation</a>)
+subtitle: Joint-event for <b>MICCAI 2024 Challenges</b> <a href='https://toothfairy2.grand-challenge.org/'>ToothFairy2 - Multi-Structure Segmentation in CBCT Volumes</a> & <a href=''>3DTeethLand - 3D Teeth Landmarks Detection Challenge</a> & <a href=''>Semi-supervised Teeth Segmentation</a>
 profile:
   align: right
   image: miccai2023-mobile-logo_resized.jpg
@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Welcome to the **ToothFairy Challenges: Supervised and Semi-supervised Multi-Structure Segmentation and Landmark Detection in Dental Data** joint-event for [MICCAI 2024](https://conferences.miccai.org/2024/en/)!
+Welcome to the **Supervised and Semi-supervised Multi-Structure Segmentation and Landmark Detection in Dental Data** joint-event for [MICCAI 2024](https://conferences.miccai.org/2024/en/)!
 
 This event will host three challenges of MICCAI 2024:
 >

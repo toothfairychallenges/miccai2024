@@ -2,15 +2,15 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: ToothFairy Challenges - MICCAI 2024 # the website title (if blank, full name will be used instead)
+title: ToothFairy, 3DTeethLand, and STS Challenges - MICCAI 2024 # the website title (if blank, full name will be used instead)
 first_name: ToothFairy
 middle_name:
 last_name: Challenge
 email:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Website for ToothFairy Event MICCAI 2024.
+  Website for ToothFairy, 3DTeethLand, and STS Challenges Joint-Event at MICCAI 2024.
 footer_text:
-keywords: MICCAI, MICCAI 2024, ToothFairy, Maxillofacial, Segmentation, Challenge  # add your own keywords or leave empty
+keywords: MICCAI, MICCAI 2024, ToothFairy, 3DTeethLand, STS, Maxillofacial, Segmentation, Challenge  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🧚  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)

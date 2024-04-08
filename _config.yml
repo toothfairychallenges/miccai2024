@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: ToothFairy, 3DTeethLand, and STS Challenges - MICCAI 2024 # the website title (if blank, full name will be used instead)
-first_name: ToothFairy
+first_name: ToothFairy, 3DTeethLand, and STS
 middle_name:
-last_name: Challenge
+last_name: Challenges
 email:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Website for ToothFairy, 3DTeethLand, and STS Challenges Joint-Event at MICCAI 2024.

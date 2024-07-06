@@ -21,7 +21,7 @@ This event will host three challenges of MICCAI 2024:
 >
 - [`ToothFairy2`](https://toothfairy2.grand-challenge.org/): Multi-Structure Segmentation in CBCT Volumes;
 - [`3DTeethLand24`](https://www.synapse.org/#!Synapse:syn57400900/wiki/627259): 3D Teeth Landmarks Detection Challenge; 
-- Semi-supervised Teeth Segmentation;
+- [`Semi-supervised Teeth Segmentation`](https://www.codabench.org/competitions/3024/.);
 
 Together, the three challenges will organize a joint event called "Supervised and Semi-supervised Multi-Structure Segmentation and Landmark Detection in Dental Data" at the MICCAI 2024 Conference. In this half-day joint-event, we will have a combined introduction and overview on the topics of maxillofacial image segmentation, followed by three sessions (1h each) devoted to summarizing and announcing the results of each challenge.
 
